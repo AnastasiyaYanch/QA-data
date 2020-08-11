@@ -1,4 +1,2 @@
 # QA-data
 
-Hello world
-
